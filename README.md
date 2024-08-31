@@ -10,10 +10,10 @@
 
 ## 🧠 AI Enthusiast
 - Background in Deep Learning and Neural Networks
-- Keeping pace with advancements in Large Language Models (LLMs)
+- Keeping pace with advancements in Large Language Models
 
 ## 🔍 Mission
-Bridging the gap between traditional IT and modern DevOps practices, while nurturing a keen interest in AI and Deep Learning.
+Striving to bridge the gap between DevOps and AI, aiming to make impactful contributions in Deep Learning while mastering the art of efficient, scalable systems.
 
 ## 🌟 Always Learning, Always Growing
 From mastering CI/CD pipelines to exploring the frontiers of AI - embracing every opportunity to learn and innovate!
