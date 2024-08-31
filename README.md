@@ -1,4 +1,4 @@
-# 👋 Hello, Tech World!
+# 👋 Hello There!
 
 ## 💼 Professional Journey
 - **Aspiring DevOps Engineer** with a focus on on-premises infrastructure
